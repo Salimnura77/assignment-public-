@@ -1,0 +1,17 @@
+h1 {
+    color:grey;
+}
+
+li
+ {
+    list-style-type: disc;
+}
+
+body{
+    background-color: bisque;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{ 
+    color: cadetblue;
+}
