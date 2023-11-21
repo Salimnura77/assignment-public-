@@ -1,3 +1,3 @@
-var gun={type:"mac10",class:"handgun",power:"50%"
-};
-gun.power;
+let firstName = 'salim';
+let lastName = 'dame';
+console.log(lastName)
